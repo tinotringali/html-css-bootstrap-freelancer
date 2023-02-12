@@ -1,0 +1,35 @@
+:root{
+--header-blue: #2c3e50;
+--profile-green: #1abc9c;
+--footer-color: #3a546d;
+--copyright: #2c3e50;
+}
+
+header{
+background-color: var(--header-blue);
+color: white;
+}
+
+header .row{
+height: 90px;
+}
+
+#start,
+#about{
+background-color: var(--profile-green);
+color: white;
+}
+
+.debug_img{
+background-color: limegreen;
+height: 300px;
+}
+
+footer{
+background-color: var(--footer-color);
+color: white;
+}
+
+#copyright{
+background-color: var(--copyright);
+}
