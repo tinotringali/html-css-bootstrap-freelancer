@@ -10,7 +10,7 @@ background-color: var(--header-blue);
 color: white;
 }
 
-header .row{
+header{
 height: 90px;
 }
 
