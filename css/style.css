@@ -13,16 +13,13 @@ color: white;
 header{
 height: 90px;
 }
-
+ul li{
+list-style: none;
+}
 #start,
 #about{
 background-color: var(--profile-green);
 color: white;
-}
-
-.debug_img{
-background-color: limegreen;
-height: 300px;
 }
 
 footer{
